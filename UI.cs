@@ -4,7 +4,7 @@ namespace C20_Ex02
 { 
     public class UI
     {
-        //private readonly Game r_Game;
+        private readonly Game r_Game;
 
         private static readonly string sr_InvalidUserName = @"Invalid username...
 A valid username doesn't contains spaces and its length is maximum 20.
